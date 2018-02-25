@@ -51,3 +51,5 @@ CoderDojo鳥取　主宰：coderdojo.tottori@gmail.com
 ***
 最終更新日と文書バージョン  
 2018年2月25日、バージョン1.0
+
+ベース: [CoderDojo西宮/梅田メンター同意書](https://github.com/coderdojo-nishinomiya-umeda/document/blob/master/MentorAgreement.md)
